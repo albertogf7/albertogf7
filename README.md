@@ -1,4 +1,4 @@
-    👋 Hi, I’m Alberto Garcia (@albertogf7)
+#    👋 Hi, I’m Alberto Garcia
 
     👀 I’m an innovative Unity Developer and XR Software Engineer specializing in immersive 3D, VR/AR experiences.
 
@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-    [Alberto Garcia's LinkedIn Profile](https://www.linkedin.com/in/alberto-garcia-a73892145/)
-
-    [Portfolio Website](https://abstraktawareness.wixsite.com/made-by-alberto-g)
-
-    [Medium Profile](https://albertogarciaf.medium.com/)
+- [Alberto Garcia's LinkedIn Profile](https://www.linkedin.com/in/alberto-garcia-a73892145/)
+- [Portfolio Website](https://abstraktawareness.wixsite.com/made-by-alberto-g)
+- [Medium Profile](https://albertogarciaf.medium.com/)
