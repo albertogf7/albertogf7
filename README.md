@@ -7,6 +7,8 @@
 
 📫 abstraktawareness@gmail.com
 
+- .[Check out my latest work "Ahoy! From Picardy" on the Apple App Store](https://apps.apple.com/us/app/ahoy-from-picardy/id6470239695)
+
 ### Connect with me:
 
 - [Alberto Garcia's LinkedIn Profile](https://www.linkedin.com/in/alberto-garcia-a73892145/)
