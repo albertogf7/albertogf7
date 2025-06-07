@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Alberto Garcia ( @albertogf7 )
-- 👀 I’m interested in Educational XR
-- 🌱 I’m currently learning Unity 3D and UX Design
-- 💞️ I’m looking to collaborate on creating a better global educational system
-- 📫 abstraktawareness@gmail.com
+    👋 Hi, I’m Alberto Garcia (@albertogf7)
 
-<!---
-albertogf7/albertogf7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    👀 I’m an innovative Unity Developer and XR Software Engineer specializing in immersive 3D, VR/AR experiences.
+
+    🌱 I excel in C#, Unity3D, AR Foundation, and VisionOS, always pushing the boundaries of digital interaction.
+
+    💞️ Passionate about educational XR, I'm eager to redefine user engagement and contribute to creating a better global educational system.
+
+    📫 abstraktawareness@gmail.com
+
+### Connect with me:
+
+    [Alberto Garcia's LinkedIn Profile](https://www.linkedin.com/in/alberto-garcia-a73892145/)
+
+    [Portfolio Website](https://abstraktawareness.wixsite.com/made-by-alberto-g)
+
+    [Medium Profile](https://albertogarciaf.medium.com/)
